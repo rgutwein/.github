@@ -1,4 +1,4 @@
-![Ignyte Assurance Platform](profile/GitHub Ignyte Platform.png)
+![Ignyte Assurance Platform](https://github.com/Ignyte-Assurance-Platform/.github/blob/e57f7bd3b6ed62132328d498391465b7701bc7c4/profile/GitHub%20Ignyte%20Platform.png)
 
 # About Ignyte Platform
 
