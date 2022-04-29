@@ -1,3 +1,5 @@
+![Ignyte Assurance Platform]()
+
 # About Ignyte Platform
 
 Ignyte Platform supports over 30 cybersecurity standards including:
