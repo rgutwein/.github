@@ -8,7 +8,7 @@ Ignyte Platform supports over 30 cybersecurity standards including:
 - Stay tuned for our API page release.
 
 | CCPA  | FERPA | 	ISO/IEC 17020:2012 |
-| ------------- | :---: | ------------- |
+| :---: | :---: | :---: |
 | **CSC**  | **FFIEC**  | **ISO/IEC 27001**  |
 | **CJIS**  | **FISCAM**  | **NISPOM**  |
 | **CMMC**  | **FISMA**  | **NIST RMF SP 800-37**  |
