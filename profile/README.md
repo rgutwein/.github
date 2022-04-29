@@ -22,7 +22,7 @@ Ignyte Platform supports over 30 cybersecurity standards including:
 
 # Coming soon
 
-Ignyte Platform API will help the dev community with Asset & Vulnerability management automation, hardening scripts, Ignyte helm chart and community driven integrations. 
+Ignyte Platform API will help the dev community with Asset & Vulnerability management automation, hardening scripts, Ignyte Helm chart and community driven integrations. 
 <!--
 updated 4/29
 -->
