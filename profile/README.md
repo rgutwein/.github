@@ -7,19 +7,10 @@ Ignyte Platform supports over 30 cybersecurity standards including:
 -Visit our [Release Notes](https://ignyteplatform.com/release-notes/) to learn more about Ignyte Platform software updates!
 -Stay tuned for our API page release.
 
-| ------------- | ------------- | ------------- |
-| CCPA  | FERPA  | ISO/IEC 17020:2012  |
-| Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  |
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 # Coming soon
 
