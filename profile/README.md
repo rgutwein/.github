@@ -16,7 +16,7 @@ Ignyte Platform supports over 30 cybersecurity standards including:
 | **CMMC**  | **FISMA**  | **NIST RMF SP 800-37**  |
 | **CNSS Instruction No. 1253**  | **GDPR**  | **NIST SP 800-171**  |
 | **COSO**  | **GLBA**  | **PCI DSS**  |
-| **DAAPM**  | **	HITRUST**  | **PHI**  |
+| **DAAPM**  | **HITRUST**  | **PHI**  |
 | **DFARS 252.204-7008**  | **HIPAA**  | **SOC 2**  |
 | **DFARS 252.204-7012**  | **IRS 1075**  | **SOC 3**  |
 | **FedRAMP**  | **COBIT**  | **SOX**  |
