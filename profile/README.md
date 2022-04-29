@@ -8,6 +8,6 @@
 🍿 Description
 🙋‍♀️ Realease notes
 🌈 Automate cyber frameworks
-👩‍💻 API for integrations coming soon ex assets
-🍿
+👩‍💻 Coming soon: API for integrations coming soon (ex assets, vulnereability)  +  HELM, hardening scripts (K8s) 
+🍿 
 -->
