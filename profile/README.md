@@ -17,7 +17,7 @@ Ignyte Platform supports over 30 cybersecurity standards including:
 | **FedRAMP**  | **COBIT**  | **SOX**  |
 
 - Explore all supported cybersecurity [frameworks](https://ignyteplatform.com/all-frameworks/).
-- Visit our [Release Notes](https://ignyteplatform.com/release-notes/) to learn more about Ignyte Platform software updates!
+- Visit our [Release Notes](https://www.ignyteplatform.com/docs/platform-release-notes/) to learn more about Ignyte Platform software updates!
 - Stay tuned for our API page release.
 
 # Coming soon
