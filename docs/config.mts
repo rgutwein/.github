@@ -24,7 +24,7 @@ export default defineConfig({
     },
     footer: {
       message: 'Made with ❤️ by Team Ignyte',
-      copyright: 'Copyright © 2023 Ignyte, Inc. All Rights Reserved.',
+      copyright: 'Copyright © 2024 Ignyte, Inc. All Rights Reserved.',
     },
     search: {
       provider: 'local',
