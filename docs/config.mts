@@ -33,7 +33,7 @@ export default defineConfig({
     logo: {
       light: "/logo-light.svg",
       dark: "/logo-dark.svg",
-      alt: "Ignyte logo",
+      alt: "White_Ignyte-Logo.png",
     },
     // nav: [
     //   { text: "Home", link: "/" },
