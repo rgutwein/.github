@@ -5,7 +5,7 @@ export default defineConfig({
   title: 'Ignyte Platform Docs',
   description: 'Compliance docs made easier',
   head: [
-    ['link', { rel: 'icon', href: '/White_Ignyte-Logo.png' }],
+    ['link', { rel: 'icon', href: '/GitHub Ignyte Platform.png' }],
     ['meta', { name: 'og:type', content: 'website' }],
     ['meta', { name: 'og:locale', content: 'en' }],
     ['meta', { name: 'og:site_name', content: 'Ignyte Docs' }],
